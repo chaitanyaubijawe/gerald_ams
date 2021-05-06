@@ -1,0 +1,11 @@
+{
+  "db": {
+    "connectionLimit": 10,
+    "host": "localhost",
+    "user": "root",
+    "database": "ams",
+    "port": "3306"
+  },
+
+  "serverPort":"8080"
+}
